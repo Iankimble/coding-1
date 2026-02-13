@@ -1,9 +1,12 @@
-# BHM Blackn Innovator Report 
+# BHM Black Innovator Report 
 
 ## Overview
 In honor of Black History Month, we are exploring the brilliant minds that have shaped our modern world. From the fiber-optic cables that power our internet to the GPS systems in our phones, Black inventors and innovators have been at the forefront of technological advancement—often while overcoming significant systemic barriers.
 
 Your task is to research one Black technologist (past or present) and analyze their contribution to science, software, or engineering.
+
+You may use google docs to complete this assignment. When finished,
+please email your report to my school email. 
 
 ## Research Requirements
 In your written response, please address the following:
@@ -29,3 +32,4 @@ Your report will be graded and assessed by the following criteria:
 4. Citations: Include a list of at least two reliable sources (websites, books, or journals) used for your research.
 
 This write up is do at the end of class
+
