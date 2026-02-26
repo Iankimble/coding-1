@@ -35,4 +35,23 @@ number = "100"
 print(type(number)) # class str = string
 print(type(int(number))) # class int = integer
 
-# float()
+# float() - this built in function will change whatever is in the round 
+# brackets into a float (decimal number) 
+
+number = 100
+print(type(number)) # class int = integer
+print(type(float(number))) # class int = integer
+
+# bool() - this built iinn function will changer whatever is in the round
+# brackets into a boolean (true/ false) value
+
+number = 100
+print(type(number)) # class int = integer
+print(type(bool(number))) # class int = integer --> True
+
+
+answer = input('please type in a number ') # input ALWAYS Takes in data as string
+print(4 * int(answer))
+
+order = 30
+print('hey Tom, we need to order ' + str(order) + ' of pencils')
