@@ -18,4 +18,15 @@ print(blCodeing)
 # lists always start at zero
 
 print(blCodeing[2])
-print(blCodeing.count())
+
+# list methods are functions that work on lists
+# remember: functions just mean code instructions.
+
+# the append method allows us to add an item at the END of a list
+blCodeing.append("cyber security")
+print(blCodeing)
+
+# the insert method allows us to add an item ANYWHERE in a list so long as we tell it which index to pass
+# it in
+blCodeing.insert(2,10)
+print(blCodeing)
